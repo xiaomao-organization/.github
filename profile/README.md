@@ -7,6 +7,6 @@
 
 > Privacy focused translator app built with MD3
 
-[shields](https://github.com/badges/shields)
+- [shields](https://github.com/badges/shields)
 
 > Concise, consistent, and legible badges in SVG and raster format
